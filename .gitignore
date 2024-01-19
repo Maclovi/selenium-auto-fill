@@ -1,0 +1,6 @@
+pyrightconfig.json
+**/__pycache__
+/basedata/attestation.docx
+/basedata/attestation.txt
+
+

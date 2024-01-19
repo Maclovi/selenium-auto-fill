@@ -1,0 +1,98 @@
+[3684:3684:0119/141733.960799:WARNING:chrome_main_delegate.cc(667)] This is Chrome version 120.0.6099.199 (not a warning)
+[3684:3684:0119/141734.099667:ERROR:policy_logger.cc(156)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(161) Cloud management controller initialization aborted as CBCM is not enabled. Please use the `--enable-chrome-browser-cloud-management` command line flag to enable it if you are not using the official Google Chrome build.
+[3684:3684:0119/141734.105623:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3720:3720:0119/141734.145811:WARNING:sandbox_linux.cc(400)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3684:3684:0119/141734.171017:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[3684:3684:0119/141735.035541:INFO:CONSOLE(14)] "The key "target-densitydpi" is not supported.", source: https://konstruktortestov.ru/add (14)
+[3774:14:0119/141735.474882:INFO:peer_connection_dependency_factory.cc(669)] Running WebRTC with a combined Network and Worker thread.
+[3684:3684:0119/141739.189721:INFO:CONSOLE(14)] "The key "target-densitydpi" is not supported.", source: https://konstruktortestov.ru/add (14)
+[3774:14:0119/141739.484798:INFO:peer_connection_dependency_factory.cc(669)] Running WebRTC with a combined Network and Worker thread.
+[3774:15:0119/141739.852006:WARNING:webrtc_voice_engine.cc(694)] Attempting to stop aecdump when no audio processing module is present
+[3720:3773:0119/141740.593887:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 153 is too big.
+[3720:3773:0119/141740.695366:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 112 is too big.
+[3720:3773:0119/141741.510060:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 181 is too big.
+[3720:3773:0119/141742.752393:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 239 is too big.
+[3720:3773:0119/141743.783521:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 253 is too big.
+[3720:3773:0119/141744.789412:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 187 is too big.
+[3720:3773:0119/141745.844742:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 237 is too big.
+[3720:3773:0119/141746.853296:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 164 is too big.
+[3720:3773:0119/141746.925955:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 112 is too big.
+[3720:3773:0119/141747.000254:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 112 is too big.
+[3720:3773:0119/141747.077481:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 112 is too big.
+[3720:3773:0119/141747.228060:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 113 is too big.
+[3720:3773:0119/141748.898117:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 220 is too big.
+[3720:3773:0119/141749.864593:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 209 is too big.
+[3720:3773:0119/141750.840148:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 219 is too big.
+[3720:3773:0119/141753.934823:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 197 is too big.
+[3720:3773:0119/141754.963722:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 315 is too big.
+[3720:3773:0119/141755.942787:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 207 is too big.
+[3720:3773:0119/141757.071797:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 281 is too big.
+[3720:3773:0119/141757.231512:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 281 is too big.
+[3720:3773:0119/141757.363662:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 281 is too big.
+[3720:3773:0119/141757.557715:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 282 is too big.
+[3720:3773:0119/141758.295010:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 245 is too big.
+[3720:3773:0119/141759.309849:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 295 is too big.
+[3720:3773:0119/141800.418835:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 289 is too big.
+[3720:3773:0119/141802.510938:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 121 is too big.
+[3720:3773:0119/141803.508852:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 145 is too big.
+[3720:3773:0119/141803.669735:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 344 is too big.
+[3720:3773:0119/141803.837928:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 368 is too big.
+[3720:3773:0119/141804.024277:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 309 is too big.
+[3720:3773:0119/141804.734214:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 133 is too big.
+[3684:3684:0119/141811.245779:INFO:CONSOLE(14)] "The key "target-densitydpi" is not supported.", source: https://konstruktortestov.ru/add (14)
+[3774:14:0119/141811.529679:INFO:peer_connection_dependency_factory.cc(669)] Running WebRTC with a combined Network and Worker thread.
+[3720:3773:0119/141811.663842:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 177 is too big.
+[3774:15:0119/141811.756109:WARNING:webrtc_voice_engine.cc(694)] Attempting to stop aecdump when no audio processing module is present
+[3720:3773:0119/141811.967458:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 134 is too big.
+[3720:3773:0119/141812.644351:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 137 is too big.
+[3720:3773:0119/141814.436387:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 207 is too big.
+[3720:3773:0119/141815.650624:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 136 is too big.
+[3720:3773:0119/141816.538251:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 181 is too big.
+[3720:3773:0119/141816.631024:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 117 is too big.
+[3720:3773:0119/141817.508005:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 179 is too big.
+[3720:3773:0119/141818.347401:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 135 is too big.
+[3720:3773:0119/141819.275994:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 105 is too big.
+[3720:3773:0119/141819.428880:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 298 is too big.
+[3720:3773:0119/141819.554256:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 210 is too big.
+[3720:3773:0119/141820.423164:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 325 is too big.
+[3720:3773:0119/141821.289604:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 125 is too big.
+[3720:3773:0119/141822.294687:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 149 is too big.
+[3720:3773:0119/141823.332828:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 200 is too big.
+[3720:3773:0119/141823.430597:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 200 is too big.
+[3720:3773:0119/141823.594353:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 137 is too big.
+[3720:3773:0119/141824.256179:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 103 is too big.
+[3720:3773:0119/141825.254546:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 143 is too big.
+[3720:3773:0119/141826.249194:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 163 is too big.
+[3720:3773:0119/141827.287743:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 119 is too big.
+[3720:3773:0119/141827.540152:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 537 is too big.
+[3720:3773:0119/141827.755052:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 359 is too big.
+[3720:3773:0119/141827.940223:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 444 is too big.
+[3720:3773:0119/141828.618019:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 153 is too big.
+[3720:3773:0119/141828.714117:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 182 is too big.
+[3720:3773:0119/141828.853842:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 210 is too big.
+[3720:3773:0119/141828.960378:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 202 is too big.
+[3720:3773:0119/141829.674978:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 135 is too big.
+[3720:3773:0119/141829.840678:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 364 is too big.
+[3720:3773:0119/141830.003908:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 382 is too big.
+[3720:3773:0119/141830.237236:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 458 is too big.
+[3720:3773:0119/141830.946655:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 149 is too big.
+[3720:3773:0119/141831.183325:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 408 is too big.
+[3720:3773:0119/141831.368245:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 430 is too big.
+[3720:3773:0119/141831.505796:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 324 is too big.
+[3720:3773:0119/141832.171739:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 137 is too big.
+[3720:3773:0119/141832.268374:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 164 is too big.
+[3720:3773:0119/141832.359999:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 156 is too big.
+[3720:3773:0119/141832.499349:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 204 is too big.
+[3720:3773:0119/141833.346920:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 388 is too big.
+[3720:3773:0119/141833.579469:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 482 is too big.
+[3720:3773:0119/141833.775585:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 142 is too big.
+[3720:3773:0119/141834.514164:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 199 is too big.
+[3720:3773:0119/141834.612368:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 174 is too big.
+[3720:3773:0119/141835.508244:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 175 is too big.
+[3720:3773:0119/141835.776352:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 470 is too big.
+[3720:3773:0119/141835.974698:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 468 is too big.
+[3720:3773:0119/141836.173458:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 228 is too big.
+[3720:3773:0119/141836.991994:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 136 is too big.
+[3720:3773:0119/141837.086069:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 136 is too big.
+[3720:3773:0119/141837.171881:ERROR:latency_info.cc(93)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 136 is too big.
+[3684:3684:0119/141852.891211:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
